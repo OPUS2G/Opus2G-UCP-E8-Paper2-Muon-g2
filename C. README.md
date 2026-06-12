@@ -1,4 +1,4 @@
-# UCP-E8++ Paper 2: Muon g-2 Numerical Verification
+# Numerical verification of Muon g-2 using Nash-4 regularized Mandelbrot attractor (UCP-E8++ : Electroweak Sector, Muon g − 2, Weak angle and Electric Charge from E8 Lattice Projection)
 
 This repository contains the numerical verification code for the muon anomalous magnetic moment calculation presented in:
 
